@@ -1,0 +1,16 @@
+X:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+X:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+X:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+X:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\obj\Debug\Web Browser.csprojResolveAssemblyReference.cache
+X:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.MainForm.resources
+X:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.Cache
+X:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+X:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
+Y:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+Y:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+Y:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+Y:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\obj\Debug\Web Browser.csprojResolveAssemblyReference.cache
+Y:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.MainForm.resources
+Y:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.Cache
+Y:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+Y:\Flash Drive\Sharp Develop Projects\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
